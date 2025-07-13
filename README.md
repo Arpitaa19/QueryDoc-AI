@@ -1,0 +1,2 @@
+#QueryDoc-AI
+QueryDoc AI is an AI tool that answers questions from PDFs using LaMini-T5, ChromaDB, and LangChain. It converts PDFs into vector embeddings for fast, accurate retrieval. Built with Streamlit and Hugging Face Transformers, it provides an intuitive way to understand and interact with documents using Generative AI.
